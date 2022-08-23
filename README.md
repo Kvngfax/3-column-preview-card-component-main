@@ -35,5 +35,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kvngfax)
-- Twitter - [@yourusername](https://www.twitter.com/kvngfax)
+- Frontend Mentor - [@kvngfax](https://www.frontendmentor.io/profile/kvngfax)
+- Twitter - [@kvngfax](https://www.twitter.com/kvngfax)
